@@ -1,98 +1,196 @@
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\appsettings.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\MyFirstMVC.staticwebassets.runtime.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\MyFirstMVC.staticwebassets.endpoints.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\MyFirstMVC.exe
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\MyFirstMVC.deps.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\MyFirstMVC.runtimeconfig.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\MyFirstMVC.dll
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\bin\Debug\net10.0\MyFirstMVC.pdb
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.AssemblyInfoInputs.cache
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.AssemblyInfo.cs
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.csproj.CoreCompileInputs.cache
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.RazorAssemblyInfo.cache
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.RazorAssemblyInfo.cs
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\scopedcss\bundle\MyFirstMVC.styles.css
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\scopedcss\projectbundle\MyFirstMVC.bundle.scp.css
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\ri33u3qr3k-{0}-b9sayid5wm-b9sayid5wm.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\z2a6d268dl-{0}-61n19gt1b8-61n19gt1b8.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\ywewewcb4t-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\zcyzg9t0ow-{0}-bqjiyaj88i-bqjiyaj88i.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\gnwy060lvz-{0}-c2jlpeoesf-c2jlpeoesf.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\hytbso57ij-{0}-erw9l3u2r3-erw9l3u2r3.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\d42tt65lz7-{0}-aexeepp0ev-aexeepp0ev.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\8x9z9l3nib-{0}-d7shbmvgxk-d7shbmvgxk.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\0swbptun7h-{0}-ausgxo2sd3-ausgxo2sd3.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\flyxc1e7mr-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\r1r6cij5fm-{0}-cosvhxvwiu-cosvhxvwiu.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\em5yj3ilg2-{0}-ub07r2b239-ub07r2b239.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\1pfpn10y53-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\853r700ic6-{0}-b7pk76d08c-b7pk76d08c.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\lfeds00tky-{0}-fsbi9cje9m-fsbi9cje9m.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\qrf5j02zbp-{0}-rzd6atqjts-rzd6atqjts.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\opj64dqbvr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\yar8mq68bv-{0}-dxx9fxp4il-dxx9fxp4il.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\ofkytrbfvq-{0}-jd9uben2k1-jd9uben2k1.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\aq58z0fkfq-{0}-khv3u5hwcm-khv3u5hwcm.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\5rq3zopkkp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\dmohr8o0vm-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\aywvymp8n4-{0}-c2oey78nd0-c2oey78nd0.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\ivw4jjb8hp-{0}-tdbxkamptv-tdbxkamptv.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\8uiff2f4aj-{0}-j5mq2jizvt-j5mq2jizvt.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\0rn8ofg39o-{0}-06098lyss8-06098lyss8.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\xkf3isur87-{0}-nvvlpmu67g-nvvlpmu67g.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\lbfe3czuzf-{0}-s35ty4nyc5-s35ty4nyc5.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\2jrpyi176u-{0}-pj5nd1wqec-pj5nd1wqec.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\epd1nr3exd-{0}-46ein0sx1k-46ein0sx1k.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\tlhtp8hcx5-{0}-v0zj4ognzu-v0zj4ognzu.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\vf9cq5qkhq-{0}-37tfw0ft22-37tfw0ft22.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\p78a2lalan-{0}-hrwsygsryq-hrwsygsryq.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\rb6dgds7dg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\vwrspxtmuw-{0}-ft3s53vfgj-ft3s53vfgj.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\94bo4c0hbd-{0}-6cfz1n2cew-6cfz1n2cew.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\hqdtcjbssg-{0}-6pdc2jztkx-6pdc2jztkx.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\eoiq5lw05o-{0}-493y06b0oq-493y06b0oq.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\f2m02663sz-{0}-iovd86k7lj-iovd86k7lj.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\4gjohl2bg3-{0}-vr1egmr9el-vr1egmr9el.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\4gult86i24-{0}-kbrnm935zg-kbrnm935zg.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\riu3l0hy6i-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\1lte4wqvof-{0}-y7v9cxd14o-y7v9cxd14o.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\ag530azsky-{0}-notf2xhcfb-notf2xhcfb.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\u7jfn5aeza-{0}-h1s4sie4z3-h1s4sie4z3.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\wwnd0acunn-{0}-63fj8s7r0e-63fj8s7r0e.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\9o72q0dvys-{0}-0j3bgjxly4-0j3bgjxly4.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\1lfldcieda-{0}-47otxtyo56-47otxtyo56.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\4emico1pht-{0}-4v8eqarkd7-4v8eqarkd7.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\9yfxissmxd-{0}-356vix0kms-356vix0kms.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\2vg1ce4dmw-{0}-83jwlth58m-83jwlth58m.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\5juwedpo0i-{0}-mrlpezrjn3-mrlpezrjn3.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\gkvd8nkdvc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\obw4hznnn8-{0}-ag7o75518u-ag7o75518u.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\0e6zmu3qbc-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\jn4weiwt2s-{0}-0i3buxo5is-0i3buxo5is.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\0onamyui1w-{0}-o1o13a6vjx-o1o13a6vjx.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\9b07y52qq0-{0}-ttgo8qnofa-ttgo8qnofa.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\dve4qhv1mj-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\z1xgtgsc3e-{0}-muycvpuwrr-muycvpuwrr.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\rmk0bdtdwo-{0}-87fc7y1x7t-87fc7y1x7t.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\w6qet01yaf-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\eg32due07n-{0}-3xwzpyic95-3xwzpyic95.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\compressed\ps0knvkgck-{0}-3xwzpyic95-3xwzpyic95.gz
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\staticwebassets.development.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.dll
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\refint\MyFirstMVC.dll
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.pdb
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\MyFirstMVC.genruntimeconfig.cache
-C:\Users\tazwaarrahad\source\repos\MyFirstMVC\MyFirstMVC\obj\Debug\net10.0\ref\MyFirstMVC.dll
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/appsettings.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.staticwebassets.runtime.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.staticwebassets.endpoints.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.exe
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.deps.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.runtimeconfig.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.dll
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.pdb
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.AssemblyInfoInputs.cache
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.AssemblyInfo.cs
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.csproj.CoreCompileInputs.cache
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.RazorAssemblyInfo.cache
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.RazorAssemblyInfo.cs
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/scopedcss/bundle/MyFirstMVC.styles.css
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/scopedcss/projectbundle/MyFirstMVC.bundle.scp.css
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ri33u3qr3k-{0}-b9sayid5wm-b9sayid5wm.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/z2a6d268dl-{0}-61n19gt1b8-61n19gt1b8.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ywewewcb4t-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/zcyzg9t0ow-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/gnwy060lvz-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/hytbso57ij-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/d42tt65lz7-{0}-aexeepp0ev-aexeepp0ev.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/8x9z9l3nib-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/0swbptun7h-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/flyxc1e7mr-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/r1r6cij5fm-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/em5yj3ilg2-{0}-ub07r2b239-ub07r2b239.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/1pfpn10y53-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/853r700ic6-{0}-b7pk76d08c-b7pk76d08c.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/lfeds00tky-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/qrf5j02zbp-{0}-rzd6atqjts-rzd6atqjts.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/opj64dqbvr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/yar8mq68bv-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ofkytrbfvq-{0}-jd9uben2k1-jd9uben2k1.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/aq58z0fkfq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/5rq3zopkkp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/dmohr8o0vm-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/aywvymp8n4-{0}-c2oey78nd0-c2oey78nd0.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ivw4jjb8hp-{0}-tdbxkamptv-tdbxkamptv.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/8uiff2f4aj-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/0rn8ofg39o-{0}-06098lyss8-06098lyss8.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/xkf3isur87-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/lbfe3czuzf-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/2jrpyi176u-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/epd1nr3exd-{0}-46ein0sx1k-46ein0sx1k.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/tlhtp8hcx5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/vf9cq5qkhq-{0}-37tfw0ft22-37tfw0ft22.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/p78a2lalan-{0}-hrwsygsryq-hrwsygsryq.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/rb6dgds7dg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/vwrspxtmuw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/94bo4c0hbd-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/hqdtcjbssg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/eoiq5lw05o-{0}-493y06b0oq-493y06b0oq.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/f2m02663sz-{0}-iovd86k7lj-iovd86k7lj.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/4gjohl2bg3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/4gult86i24-{0}-kbrnm935zg-kbrnm935zg.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/riu3l0hy6i-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/1lte4wqvof-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ag530azsky-{0}-notf2xhcfb-notf2xhcfb.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/u7jfn5aeza-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/wwnd0acunn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/9o72q0dvys-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/1lfldcieda-{0}-47otxtyo56-47otxtyo56.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/4emico1pht-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/9yfxissmxd-{0}-356vix0kms-356vix0kms.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/2vg1ce4dmw-{0}-83jwlth58m-83jwlth58m.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/5juwedpo0i-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/gkvd8nkdvc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/obw4hznnn8-{0}-ag7o75518u-ag7o75518u.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/0e6zmu3qbc-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/jn4weiwt2s-{0}-0i3buxo5is-0i3buxo5is.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/0onamyui1w-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/9b07y52qq0-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/dve4qhv1mj-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/z1xgtgsc3e-{0}-muycvpuwrr-muycvpuwrr.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/rmk0bdtdwo-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/w6qet01yaf-{0}-mlv21k5csn-mlv21k5csn.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/eg32due07n-{0}-3xwzpyic95-3xwzpyic95.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ps0knvkgck-{0}-3xwzpyic95-3xwzpyic95.gz
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.upToDateCheck.txt
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.dll
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/refint/MyFirstMVC.dll
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.pdb
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.genruntimeconfig.cache
+C:/Users/tazwaarrahad/source/repos/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/ref/MyFirstMVC.dll
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/appsettings.Development.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/appsettings.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.staticwebassets.runtime.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.staticwebassets.endpoints.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.deps.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.runtimeconfig.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.dll
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/bin/Debug/net10.0/MyFirstMVC.pdb
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.AssemblyInfoInputs.cache
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.AssemblyInfo.cs
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.csproj.CoreCompileInputs.cache
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.RazorAssemblyInfo.cache
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.RazorAssemblyInfo.cs
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.sourcelink.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/scopedcss/bundle/MyFirstMVC.styles.css
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/scopedcss/projectbundle/MyFirstMVC.bundle.scp.css
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ri33u3qr3k-{0}-b9sayid5wm-b9sayid5wm.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/z2a6d268dl-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ywewewcb4t-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/zcyzg9t0ow-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/gnwy060lvz-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/hytbso57ij-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/d42tt65lz7-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/8x9z9l3nib-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/0swbptun7h-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/flyxc1e7mr-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/r1r6cij5fm-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/em5yj3ilg2-{0}-ub07r2b239-ub07r2b239.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/1pfpn10y53-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/853r700ic6-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/lfeds00tky-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/qrf5j02zbp-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/opj64dqbvr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/yar8mq68bv-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ofkytrbfvq-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/aq58z0fkfq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/5rq3zopkkp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/dmohr8o0vm-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/aywvymp8n4-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ivw4jjb8hp-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/8uiff2f4aj-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/0rn8ofg39o-{0}-06098lyss8-06098lyss8.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/xkf3isur87-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/lbfe3czuzf-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/2jrpyi176u-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/epd1nr3exd-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/tlhtp8hcx5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/vf9cq5qkhq-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/p78a2lalan-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/rb6dgds7dg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/vwrspxtmuw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/94bo4c0hbd-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/hqdtcjbssg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/eoiq5lw05o-{0}-493y06b0oq-493y06b0oq.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/f2m02663sz-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/4gjohl2bg3-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/4gult86i24-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/riu3l0hy6i-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/1lte4wqvof-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ag530azsky-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/u7jfn5aeza-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/wwnd0acunn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/9o72q0dvys-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/1lfldcieda-{0}-47otxtyo56-47otxtyo56.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/4emico1pht-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/9yfxissmxd-{0}-356vix0kms-356vix0kms.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/2vg1ce4dmw-{0}-83jwlth58m-83jwlth58m.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/5juwedpo0i-{0}-mrlpezrjn3-mrlpezrjn3.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/gkvd8nkdvc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/obw4hznnn8-{0}-ag7o75518u-ag7o75518u.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/0e6zmu3qbc-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/jn4weiwt2s-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/0onamyui1w-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/9b07y52qq0-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/dve4qhv1mj-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/z1xgtgsc3e-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/rmk0bdtdwo-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/w6qet01yaf-{0}-mlv21k5csn-mlv21k5csn.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/eg32due07n-{0}-qbhrfpde6g-qbhrfpde6g.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/compressed/ps0knvkgck-{0}-qbhrfpde6g-qbhrfpde6g.gz
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.build.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.development.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/swae.build.ex.cache
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.dll
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/refint/MyFirstMVC.dll
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.pdb
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/MyFirstMVC.genruntimeconfig.cache
+/Users/tazwaarrahad/Desktop/ADV DotNET/MyFirstMVC/MyFirstMVC/obj/Debug/net10.0/ref/MyFirstMVC.dll
