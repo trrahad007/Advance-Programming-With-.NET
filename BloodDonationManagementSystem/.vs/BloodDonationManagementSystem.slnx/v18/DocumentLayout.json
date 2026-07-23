@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D524D35-899B-459E-B3C6-276CA789A06C}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|z:\\desktop\\adv dotnet\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D524D35-899B-459E-B3C6-276CA789A06C}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D524D35-899B-459E-B3C6-276CA789A06C}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|z:\\desktop\\adv dotnet\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8D524D35-899B-459E-B3C6-276CA789A06C}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "BloodDonationManagementSystem\\appsettings.json",
+              "ToolTip": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\appsettings.json",
+              "RelativeToolTip": "BloodDonationManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T20:52:13.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BloodDonationManagementSystem\\appsettings.Development.json",
               "ToolTip": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\appsettings.Development.json",
               "RelativeToolTip": "BloodDonationManagementSystem\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-23T20:32:14.021Z",
               "EditorCaption": ""
