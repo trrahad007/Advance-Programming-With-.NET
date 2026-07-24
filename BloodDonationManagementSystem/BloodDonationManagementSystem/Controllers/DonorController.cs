@@ -11,7 +11,7 @@ namespace BloodDonationManagementSystem.Controllers
         {
             this.db = db;
         }
-
+        //create -> CRUD
         [HttpGet]
         public IActionResult Create()
         {
@@ -29,9 +29,16 @@ namespace BloodDonationManagementSystem.Controllers
             return View(d);
 
         }
+        //Read -> CRUD
+
         public IActionResult List()
         {
             var data = db.Donors.ToList();
+            return View(data);
+        }
+        public IActionResult Details(int id)
+        {
+            var data = db.Donors.Find(id);
             return View(data);
         }
         public IActionResult Index()
