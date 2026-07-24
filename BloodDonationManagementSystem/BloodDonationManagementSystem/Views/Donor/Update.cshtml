@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model BloodDonationManagementSystem.EF.Tables.Donor
+<h2><center>Update Donor</center></h2>
+<form method="post">
+    <input type="hidden" name="DonorId" value="@Model.DonorId" />
+
+    Full name: <input type="text" name="FullName" value="@Model.FullName" class="form-control" placeholder="Full Name" />
+    Blood Group:<input type="text" name="BloodGroup" value="@Model.BloodGroup" class="form-control" placeholder="Blood Group" />
+    Contact No: <input type="text" name="ContactNo" value="@Model.ContactNo" class="form-control" placeholder="Contact No" />
+    City: <input type="text" name="City" value="@Model.City" class="form-control" placeholder="City" />
+    Last Donation Date: <input type="date" name="LastDonationDate" value="@(Model.LastDonationDate.HasValue ? Model.LastDonationDate.Value.ToString("yyyy-MM-dd") : "")" class="form-control" />
+
+    <br />
+    <input type="submit" value="Update" class="btn btn-primary" />
+</form>

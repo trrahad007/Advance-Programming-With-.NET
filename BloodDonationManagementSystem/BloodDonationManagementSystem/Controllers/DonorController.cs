@@ -41,6 +41,26 @@ namespace BloodDonationManagementSystem.Controllers
             var data = db.Donors.Find(id);
             return View(data);
         }
+
+        //UPDATE -> CRUD
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            var data = db.Donors.Find(id);
+            return View(data);
+        }
+        [HttpPost]
+        public IActionResult Update(Donor formObj)
+        {
+            var exObj = db.Donors.Find(formObj.DonorId);
+            exObj.FullName = formObj.FullName;
+            exObj.BloodGroup = formObj.BloodGroup;
+            exObj.ContactNo = formObj.ContactNo;
+            exObj.City= formObj.City;
+            exObj.LastDonationDate = formObj.LastDonationDate;
+            db.SaveChanges();
+            return RedirectToAction("List");
+        }
         public IActionResult Index()
         {
             return View();
