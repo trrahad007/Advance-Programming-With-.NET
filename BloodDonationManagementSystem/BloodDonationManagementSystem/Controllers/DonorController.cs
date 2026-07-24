@@ -91,6 +91,15 @@ namespace BloodDonationManagementSystem.Controllers
             ViewBag.BloodGroup = bg;
             return View(data);
         }
+        // LINQ2 -->Sorted by LastDonationDate most recent first
+        //select * from Donors order by LastDonationDate desc
+        public IActionResult SortedByDate()
+        {
+            var data = (from d in db.Donors
+                        orderby d.LastDonationDate descending
+                        select d).ToList();
+            return View(data);
+        }
         public IActionResult Index()
         {
             return View();

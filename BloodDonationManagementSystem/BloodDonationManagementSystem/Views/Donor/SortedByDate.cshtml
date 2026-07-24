@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Most Recent Donors</h2>
+@if (Model.Count != 0)
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Full Name</th>
+            <th>Blood Group</th>
+            <th>City</th>
+            <th>Last Donation Date</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DonorId</td>
+                <td>@item.FullName</td>
+                <td>@item.BloodGroup</td>
+                <td>@item.City</td>
+                <td>@item.LastDonationDate</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p class="alert alert-info">No Data Found</p>
+}
