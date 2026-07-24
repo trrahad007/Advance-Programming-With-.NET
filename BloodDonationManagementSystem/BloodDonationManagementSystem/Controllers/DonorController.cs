@@ -100,6 +100,21 @@ namespace BloodDonationManagementSystem.Controllers
                         select d).ToList();
             return View(data);
         }
+        // LINQ 3 -->> Donors alongside with their total donation counts
+        //select count * from donors
+        public IActionResult DonationCount()
+        {
+            var data = (from d in db.Donors
+                        select new
+                        {
+                            d.DonorId,
+                            d.FullName,
+                            d.BloodGroup,
+                            Count = d.Donations.Count
+                        }).ToList();
+            ViewBag.Data = data;
+            return View();
+        }
         public IActionResult Index()
         {
             return View();

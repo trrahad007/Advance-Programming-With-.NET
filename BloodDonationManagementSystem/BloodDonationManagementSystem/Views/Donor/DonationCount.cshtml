@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Donor with Donation Count</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Full Name</th>
+        <th>Blood Group</th>
+        <th>Total Donations</th>
+    </tr>
+    @foreach (var item in ViewBag.Data)
+    {
+        <tr>
+            <td>@item.DonorId</td>
+            <td>@item.FullName</td>
+            <td>@item.BloodGroup</td>
+            <td>@item.Count</td>
+        </tr>
+    }
+</table>
