@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model BloodDonationManagementSystem.EF.Tables.Donor
+@{
+    bool CheckBloodGroup(string bg)
+    {
+        if (Model.BloodGroup == bg) return true;
+        return false;
+    }
+}
+
+<h2>Add New Donor</h2>
+
+@Html.ValidationSummary()
+
+<form action="" method="post">
+    <input type="text" class="form-control" value="@Model.FullName" name="FullName" placeholder="Full Name" />
+    <span class="text-danger">@Html.ValidationMessage("FullName")</span>
+
+    Blood Group:
+    <select name="BloodGroup" class="form-control">
+        <option disabled selected>---Select Blood Group---</option>
+        <option selected="@CheckBloodGroup("A+")">A+</option>
+        <option selected="@CheckBloodGroup("A-")">A-</option>
+        <option selected="@CheckBloodGroup("B+")">B+</option>
+        <option selected="@CheckBloodGroup("B-")">B-</option>
+        <option selected="@CheckBloodGroup("AB+")">AB+</option>
+        <option selected="@CheckBloodGroup("AB-")">AB-</option>
+        <option selected="@CheckBloodGroup("O+")">O+</option>
+        <option selected="@CheckBloodGroup("O-")">O-</option>
+    </select>
+    <span class="text-danger">@Html.ValidationMessage("BloodGroup")</span>
+
+    <input type="text" class="form-control" value="@Model.ContactNo" name="ContactNo" placeholder="Contact No" />
+    <span class="text-danger">@Html.ValidationMessage("ContactNo")</span>
+
+    <input type="text" class="form-control" value="@Model.City" name="City" placeholder="City" />
+    <span class="text-danger">@Html.ValidationMessage("City")</span>
+
+    <input type="date" class="form-control" value="@(Model.LastDonationDate.HasValue ? Model.LastDonationDate.Value.ToString("yyyy-MM-dd") : "")" name="LastDonationDate" />
+    <span class="text-danger">@Html.ValidationMessage("LastDonationDate")</span>
+
+    <br />
+    <input type="submit" value="Save" class="btn btn-primary" />
+</form>

@@ -223,3 +223,4 @@ Z:\Desktop\ADV DotNET\BloodDonationManagementSystem\BloodDonationManagementSyste
 Z:\Desktop\ADV DotNET\BloodDonationManagementSystem\BloodDonationManagementSystem\obj\Debug\net10.0\BloodDonationManagementSystem.pdb
 Z:\Desktop\ADV DotNET\BloodDonationManagementSystem\BloodDonationManagementSystem\obj\Debug\net10.0\BloodDonationManagementSystem.genruntimeconfig.cache
 Z:\Desktop\ADV DotNET\BloodDonationManagementSystem\BloodDonationManagementSystem\obj\Debug\net10.0\ref\BloodDonationManagementSystem.dll
+Z:\Desktop\ADV DotNET\BloodDonationManagementSystem\BloodDonationManagementSystem\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

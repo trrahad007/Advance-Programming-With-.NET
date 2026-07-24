@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+}
+
+@if (Model.Count != 0)
+{
+    <h2><center>All Donors List</center></h2>
+    
+    <br />
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Full Name</th>
+            <th>Blood Group</th>
+            <th>Contact No</th>
+            <th>City</th>
+            <th>Last Donation Date</th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DonorId</td>
+                <td>@item.FullName</td>
+                <td>@item.BloodGroup</td>
+                <td>@item.ContactNo</td>
+                <td>@item.City</td>
+                <td>@item.LastDonationDate</td>
+                <td>
+                    <a class="btn btn-primary" href="/donor/details/@item.DonorId">Details</a>
+                    <a class="btn btn-success" href="/donor/edit/@item.DonorId">Edit</a>
+                    <a class="btn btn-danger" href="/donor/delete/@item.DonorId">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p class="alert alert-info">No Donors Found</p>
+    <a class="btn btn-success" href="/donor/create">Add New Donor</a>
+}
+<div class = "text-center">
+    <a class="btn btn-success" href="/donor/create">Add New Donor</a></div>
