@@ -101,7 +101,7 @@ namespace BloodDonationManagementSystem.Controllers
             return View(data);
         }
         // LINQ 3 -->> Donors alongside with their total donation counts
-        //select count * from donors
+        //select DonorId, FullName, BloodGroup, count(*) from Donations group by DonorId, FullName, BloodGroup
         public IActionResult DonationCount()
         {
             var data = (from d in db.Donors
@@ -113,6 +113,15 @@ namespace BloodDonationManagementSystem.Controllers
                             Count = d.Donations.Count
                         }).ToList();
             ViewBag.Data = data;
+            return View();
+        }
+        // LINQ4 --> Total volume of bloods collected
+        //select sum(VolumeMl) from Donations
+        public IActionResult TotalVolume()
+        {
+            var total = (from dn in db.Donations
+                         select dn.VolumeMl).Sum();
+            ViewBag.Total = total;
             return View();
         }
         public IActionResult Index()
