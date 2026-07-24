@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|z:\\desktop\\adv dotnet\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|z:\\desktop\\adv dotnet\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|z:\\desktop\\adv dotnet\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\views\\donor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|z:\\desktop\\adv dotnet\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|solutionrelative:blooddonationmanagementsystem\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15DA511B-525F-94AB-8132-BEA96519D0EB}|BloodDonationManagementSystem\\BloodDonationManagementSystem.csproj|z:\\desktop\\adv dotnet\\blooddonationmanagementsystem\\blooddonationmanagementsystem\\views\\donor\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,13 +54,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DonorController.cs",
               "DocumentMoniker": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Controllers\\DonorController.cs",
               "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Controllers\\DonorController.cs",
               "ToolTip": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Controllers\\DonorController.cs",
               "RelativeToolTip": "BloodDonationManagementSystem\\Controllers\\DonorController.cs",
-              "ViewState": "AgIAAEIAAAAAMzMzM7MfwEgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAADAmJmZmRkkwFAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T06:44:10.752Z",
               "IsPinned": true,
@@ -72,16 +72,16 @@
               "Title": "Delete.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml",
               "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml",
-              "ToolTip": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml",
-              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "ToolTip": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml*",
+              "RelativeToolTip": "BloodDonationManagementSystem\\Views\\Donor\\Delete.cshtml*",
+              "ViewState": "AgIAAAIAAAAANTMzMzMLwAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-24T10:52:21.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Update.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Update.cshtml",
               "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\Update.cshtml",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\ADV DotNET\\BloodDonationManagementSystem\\BloodDonationManagementSystem\\Views\\Donor\\Details.cshtml",
               "RelativeDocumentMoniker": "BloodDonationManagementSystem\\Views\\Donor\\Details.cshtml",
