@@ -61,6 +61,25 @@ namespace BloodDonationManagementSystem.Controllers
             db.SaveChanges();
             return RedirectToAction("List");
         }
+
+        //DELETE -> CRUD
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var data = db.Donors.Find(id);
+            return View(data);
+        }
+        [HttpPost]
+        public IActionResult Delete(string Dcsn, int id)
+        {
+            if (Dcsn == "Yes")
+            {
+                var data = db.Donors.Find(id);
+                db.Donors.Remove(data);
+                db.SaveChanges();
+            }
+            return RedirectToAction("List");
+        }
         public IActionResult Index()
         {
             return View();
