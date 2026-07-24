@@ -1,0 +1,59 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    bool CheckBG(string b)
+    {
+        if (ViewBag.BloodGroup == b) return true;
+        return false;
+    }
+}
+
+<h2>Filter Donors by Blood Group</h2>
+
+<form action="" method="get">
+    <select name="bg" class="form-control">
+        <option disabled selected>---Select Blood Group---</option>
+        <option selected="@CheckBG("A+")">A+</option>
+        <option selected="@CheckBG("A-")">A-</option>
+        <option selected="@CheckBG("B+")">B+</option>
+        <option selected="@CheckBG("B-")">B-</option>
+        <option selected="@CheckBG("AB+")">AB+</option>
+        <option selected="@CheckBG("AB-")">AB-</option>
+        <option selected="@CheckBG("O+")">O+</option>
+        <option selected="@CheckBG("O-")">O-</option>
+    </select>
+    <input type="submit" value="Filter" class="btn btn-primary" />
+</form>
+
+<br />
+
+@if (Model != null && Model.Count != 0)
+{
+    <h3>Results for: @ViewBag.BloodGroup</h3>
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Full Name</th>
+            <th>Blood Group</th>
+            <th>Contact No</th>
+            <th>City</th>
+            <th>Last Donation Date</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DonorId</td>
+                <td>@item.FullName</td>
+                <td>@item.BloodGroup</td>
+                <td>@item.ContactNo</td>
+                <td>@item.City</td>
+                <td>@item.LastDonationDate</td>
+            </tr>
+        }
+    </table>
+}
+else if (ViewBag.BloodGroup != null)
+{
+    <p class="alert alert-info">No donors found for blood group: @ViewBag.BloodGroup</p>
+}

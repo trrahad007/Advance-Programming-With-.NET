@@ -80,6 +80,17 @@ namespace BloodDonationManagementSystem.Controllers
             }
             return RedirectToAction("List");
         }
+
+        // LINQ 1-->Filter by blood groupss
+        // select * from Donors where BloodGroup='A+/B+/any'
+        public IActionResult FilterByBloodGroup(string bg)
+        {
+            var data = (from d in db.Donors
+                        where d.BloodGroup == bg
+                        select d).ToList();
+            ViewBag.BloodGroup = bg;
+            return View(data);
+        }
         public IActionResult Index()
         {
             return View();
